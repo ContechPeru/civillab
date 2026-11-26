@@ -2,7 +2,7 @@
   "content": [
     {
       "content": null,
-      "created": "2026-11-26T18:07:30.279452Z",
+      "created": "2026-11-26T19:03:23.857364Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -16,7 +16,7 @@
     },
     {
       "content": null,
-      "created": "2026-11-26T18:07:30.282455Z",
+      "created": "2026-11-26T19:03:23.859358Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -30,7 +30,7 @@
     },
     {
       "content": null,
-      "created": "2026-11-26T18:07:30.286983Z",
+      "created": "2026-11-26T19:03:23.863342Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -44,7 +44,7 @@
     },
     {
       "content": null,
-      "created": "2026-11-26T18:07:30.289976Z",
+      "created": "2026-11-26T19:03:23.865343Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -58,7 +58,7 @@
     },
     {
       "content": null,
-      "created": "2026-11-26T18:07:30.292984Z",
+      "created": "2026-11-26T19:03:23.867342Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -72,7 +72,7 @@
     },
     {
       "content": null,
-      "created": "2026-11-26T18:07:30.296977Z",
+      "created": "2026-11-26T19:03:23.870459Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -86,7 +86,7 @@
     },
     {
       "content": null,
-      "created": "2026-11-26T18:07:30.299994Z",
+      "created": "2026-11-26T19:03:23.872469Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -100,7 +100,7 @@
     },
     {
       "content": null,
-      "created": "2026-11-26T18:07:30.302994Z",
+      "created": "2026-11-26T19:03:23.875443Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -114,7 +114,7 @@
     },
     {
       "content": null,
-      "created": "2026-11-26T18:07:30.307010Z",
+      "created": "2026-11-26T19:03:23.878961Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -128,7 +128,7 @@
     },
     {
       "content": null,
-      "created": "2026-11-26T18:07:30.311004Z",
+      "created": "2026-11-26T19:03:23.882891Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -142,7 +142,7 @@
     },
     {
       "content": null,
-      "created": "2026-11-26T18:07:30.315009Z",
+      "created": "2026-11-26T19:03:23.885890Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -156,7 +156,7 @@
     },
     {
       "content": null,
-      "created": "2026-11-26T18:07:30.317024Z",
+      "created": "2026-11-26T19:03:23.887888Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -169,11 +169,11 @@
       "writable": true
     }
   ],
-  "created": "2026-11-26T18:07:30.278451Z",
+  "created": "2026-11-26T19:03:23.856366Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-11-26T18:07:30.317024Z",
+  "last_modified": "2026-11-26T19:03:23.887888Z",
   "mimetype": null,
   "name": "01_Tecnologia_Materiales",
   "path": "01_Tecnologia_Materiales",

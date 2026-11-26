@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Si usas este software, cítalo así."
+title: "CivilLab UNSAAC: suite computacional de laboratorio para Tecnología de Materiales (IC151) y Tecnología del Concreto (IC152)"
+version: 1.0.0
+date-released: 2026-11-26
+doi: 10.5281/zenodo.24568680
+license: CC-BY-NC-SA-4.0
+type: software
+url: "https://inkaia.tech/civillab/"
+repository-code: "https://github.com/ContechPeru/civillab"
+authors:
+  - family-names: "Dueñas Ttito"
+    given-names: "Jorge Luis"
+    orcid: "https://orcid.org/0009-0004-1420-1054"
+    affiliation: "Universidad Nacional de San Antonio Abad del Cusco"
+keywords:
+  - concrete technology
+  - construction materials
+  - laboratory testing
+  - ACI 211.1
+  - civil engineering education
