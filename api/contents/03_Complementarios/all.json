@@ -2,7 +2,7 @@
   "content": [
     {
       "content": null,
-      "created": "2026-11-26T16:52:44.452123Z",
+      "created": "2026-11-26T18:07:30.370967Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -15,11 +15,11 @@
       "writable": true
     }
   ],
-  "created": "2026-11-26T16:52:44.451124Z",
+  "created": "2026-11-26T18:07:30.370967Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-11-26T16:52:44.452123Z",
+  "last_modified": "2026-11-26T18:07:30.370967Z",
   "mimetype": null,
   "name": "03_Complementarios",
   "path": "03_Complementarios",
